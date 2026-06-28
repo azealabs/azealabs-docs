@@ -167,9 +167,9 @@ Build and deploy the first version of `azealabs.com`.
 * [ ] Test on desktop and mobile
 * [ ] Add portfolio README
 * [x] Add favicon
-* [ ] Add Open Graph metadata
-* [ ] Add social preview image
-* [ ] Add 404 page
+* [x] Add Open Graph metadata
+* [x] Add social preview image
+* [x] Add 404 page
 * [ ] Configure canonical domain redirect
 * [ ] Verify contact email works
 * [ ] Add LinkedIn link
