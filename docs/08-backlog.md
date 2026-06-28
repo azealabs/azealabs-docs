@@ -203,6 +203,9 @@ Define the first version of QA Labs before building it.
 * [x] Define first API scenarios
 * [ ] Define future automation examples structure
 * [x] Create QA Labs MVP Scope document
+* [x] Create ADR for using Next.js for QA Labs frontend
+* [x] Create ADR for using FastAPI for QA Labs API
+* [x] Create ADR for using PostgreSQL for QA Labs database
 
 ### Initial QA Labs Demo Pages
 
