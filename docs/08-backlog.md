@@ -193,15 +193,16 @@ Define the first version of QA Labs before building it.
 
 ### Tasks
 
-* [ ] Define QA Labs MVP scope
-* [ ] Define first demo pages
-* [ ] Define automation-friendly UI rules
-* [ ] Define test scenario format
-* [ ] Define page documentation format
+* [x] Define QA Labs MVP scope
+* [x] Define first demo pages
+* [x] Define automation-friendly UI rules
+* [x] Define test scenario format
+* [x] Define page documentation format
 * [ ] Define difficulty levels
-* [ ] Define data-testid conventions
-* [ ] Define first API scenarios
+* [x] Define data-testid conventions
+* [x] Define first API scenarios
 * [ ] Define future automation examples structure
+* [x] Create QA Labs MVP Scope document
 
 ### Initial QA Labs Demo Pages
 
