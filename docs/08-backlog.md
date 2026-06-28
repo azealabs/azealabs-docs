@@ -175,6 +175,7 @@ Build and deploy the first version of `azealabs.com`.
 * [x] Add LinkedIn link
 * [x] Add first project details page
 * [x] Remove default Astro starter files
+* [x] Create QA Labs project page at `/projects/qalabs`
 
 ### Completion Criteria
 
