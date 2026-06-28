@@ -61,8 +61,8 @@ In progress.
 * [x] Create Tech Stack document
 * [x] Create Domain Strategy document
 * [x] Create GitHub Strategy document
-* [ ] Create Initial Backlog document
-* [ ] Create first ADR documents
+* [x] Create Initial Backlog document
+* [x] Create first ADR documents
 * [ ] Review and refine documentation
 
 ### Completion Criteria
@@ -143,8 +143,8 @@ Build and deploy the first version of `azealabs.com`.
 
 ### Tasks
 
-* [ ] Create `portfolio` repository
-* [ ] Initialize Astro project
+* [x] Create `portfolio` repository
+* [x] Initialize Astro project
 * [ ] Add TypeScript
 * [ ] Add Tailwind CSS
 * [ ] Create base layout
@@ -158,9 +158,9 @@ Build and deploy the first version of `azealabs.com`.
 * [ ] Add responsive styles
 * [ ] Add basic SEO metadata
 * [ ] Add README
-* [ ] Deploy to Cloudflare Pages
-* [ ] Connect `azealabs.com`
-* [ ] Validate HTTPS
+* [x] Deploy to Cloudflare Pages
+* [x] Connect `azealabs.com`
+* [x] Validate HTTPS
 * [ ] Test on desktop and mobile
 
 ### Completion Criteria
