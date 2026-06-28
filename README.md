@@ -1,4 +1,4 @@
-# azealabs-docs
+# Azealabs-docs
 AZea Labs is a software and QA automation ecosystem created by Antonio Zea.
 
 The goal of this ecosystem is to build professional software projects while improving development, architecture, and automation skills.
