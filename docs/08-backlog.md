@@ -15,13 +15,13 @@ The goal is to keep the work clear, incremental, and aligned with the AZea Labs 
 Current phase:
 
 ```text
-Phase 0 - Foundation and Planning
+Phase 1 - Portfolio MVP
 ```
 
 Current objective:
 
 ```text
-Complete the documentation foundation and prepare the first code repository for the AZea Labs Portfolio.
+Improve the first public version of the AZea Labs Portfolio and prepare the project for QA Labs planning.
 ```
 
 Next product to build:
@@ -81,12 +81,12 @@ Define the initial identity of AZea Labs.
 
 * [x] Select main brand name: AZea Labs
 * [x] Buy matching domain: `azealabs.com`
-* [ ] Define brand personality
-* [ ] Define initial color direction
-* [ ] Define typography direction
+* [x] Define brand personality
+* [x] Define initial color direction
+* [x] Define typography direction
 * [ ] Define visual style references
-* [ ] Create temporary logo or wordmark
-* [ ] Define portfolio visual style
+* [x] Create temporary logo or wordmark
+* [x] Define portfolio visual style
 * [ ] Define QA Labs visual style
 * [ ] Define academy visual style
 
@@ -106,16 +106,16 @@ Prepare the first version of the AZea Labs Portfolio.
 
 ### Tasks
 
-* [ ] Define portfolio sections
-* [ ] Define homepage content
-* [ ] Define About content
-* [ ] Define Projects content
-* [ ] Define QA Labs teaser content
-* [ ] Define contact information
-* [ ] Define GitHub and LinkedIn links
-* [ ] Define initial English copy
-* [ ] Define SEO metadata
-* [ ] Define first portfolio wireframe
+* [x] Define portfolio sections
+* [x] Define homepage content
+* [x] Define About content
+* [x] Define Projects content
+* [x] Define QA Labs teaser content
+* [x] Define contact information
+* [x] Define GitHub and LinkedIn links
+* [x] Define initial English copy
+* [x] Define SEO metadata
+* [x] Define first portfolio wireframe
 
 ### Initial Portfolio Sections
 
@@ -145,23 +145,35 @@ Build and deploy the first version of `azealabs.com`.
 
 * [x] Create `portfolio` repository
 * [x] Initialize Astro project
-* [ ] Add TypeScript
-* [ ] Add Tailwind CSS
-* [ ] Create base layout
-* [ ] Create navigation
-* [ ] Create homepage hero section
-* [ ] Create About section
-* [ ] Create Projects section
-* [ ] Create QA Labs teaser section
-* [ ] Create Future Academy teaser section
-* [ ] Create Contact section
-* [ ] Add responsive styles
-* [ ] Add basic SEO metadata
+* [x] Add TypeScript
+* [x] Add Tailwind CSS
+* [x] Create base layout
+* [x] Create navigation
+* [x] Create homepage hero section
+* [x] Create About section
+* [x] Create Projects section
+* [x] Create QA Labs teaser section
+* [x] Create Future Academy teaser section
+* [x] Create Contact section
+* [x] Add responsive styles
+* [x] Add basic SEO metadata
 * [ ] Add README
 * [x] Deploy to Cloudflare Pages
 * [x] Connect `azealabs.com`
+* [x] Connect `www.azealabs.com`
+* [x] Validate `www.azealabs.com` HTTPS
+* [x] Create initial AZea Labs landing page
 * [x] Validate HTTPS
 * [ ] Test on desktop and mobile
+* [ ] Add portfolio README
+* [ ] Add favicon
+* [ ] Add Open Graph metadata
+* [ ] Add social preview image
+* [ ] Add 404 page
+* [ ] Configure canonical domain redirect
+* [ ] Verify contact email works
+* [ ] Add LinkedIn link
+* [ ] Add first project details page
 
 ### Completion Criteria
 
