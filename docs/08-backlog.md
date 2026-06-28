@@ -171,7 +171,7 @@ Build and deploy the first version of `azealabs.com`.
 * [x] Add social preview image
 * [x] Add 404 page
 * [ ] Configure canonical domain redirect
-* [ ] Verify contact email works
+* [x] Verify contact email works
 * [ ] Add LinkedIn link
 * [ ] Add first project details page
 * [x] Remove default Astro starter files
