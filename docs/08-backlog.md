@@ -157,7 +157,7 @@ Build and deploy the first version of `azealabs.com`.
 * [x] Create Contact section
 * [x] Add responsive styles
 * [x] Add basic SEO metadata
-* [ ] Add README
+* [x] Add README
 * [x] Deploy to Cloudflare Pages
 * [x] Connect `azealabs.com`
 * [x] Connect `www.azealabs.com`
@@ -166,7 +166,7 @@ Build and deploy the first version of `azealabs.com`.
 * [x] Validate HTTPS
 * [ ] Test on desktop and mobile
 * [ ] Add portfolio README
-* [ ] Add favicon
+* [x] Add favicon
 * [ ] Add Open Graph metadata
 * [ ] Add social preview image
 * [ ] Add 404 page
@@ -174,6 +174,7 @@ Build and deploy the first version of `azealabs.com`.
 * [ ] Verify contact email works
 * [ ] Add LinkedIn link
 * [ ] Add first project details page
+* [x] Remove default Astro starter files
 
 ### Completion Criteria
 
