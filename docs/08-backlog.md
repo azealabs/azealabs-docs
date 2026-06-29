@@ -233,17 +233,17 @@ Build the first QA Labs frontend.
 
 ### Tasks
 
-* [ ] Create `qalabs-web` repository
-* [ ] Initialize Next.js project
-* [ ] Add TypeScript
-* [ ] Add Tailwind CSS
-* [ ] Create QA Labs landing page
+* [x] Create `qalabs-web` repository
+* [x] Initialize Next.js project
+* [x] Add TypeScript
+* [x] Add Tailwind CSS
+* [x] Create QA Labs landing page
 * [ ] Create Login Demo page
 * [ ] Create Forms Demo page
 * [ ] Create Tables Demo page
 * [ ] Add stable selectors
 * [ ] Add basic documentation per page
-* [ ] Deploy to `labs.azealabs.com`
+* [x] Deploy to `labs.azealabs.com`
 
 ### Completion Criteria
 
