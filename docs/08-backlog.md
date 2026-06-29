@@ -244,6 +244,10 @@ Build the first QA Labs frontend.
 * [ ] Add stable selectors
 * [ ] Add basic documentation per page
 * [x] Deploy to `labs.azealabs.com`
+* [x] Create QA Labs Web README
+* [x] Replace default Next.js favicon
+* [x] Configure Cloudflare Pages static export
+* [x] Connect `labs.azealabs.com`
 
 ### Completion Criteria
 
