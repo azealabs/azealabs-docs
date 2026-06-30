@@ -243,7 +243,14 @@ Build the first QA Labs frontend.
 * [x] Link Login Demo from landing page
 * [x] Create Forms Demo page
 * [x] Link Forms Demo from landing page
-* [ ] Create Tables Demo page
+* [x] Create Tables Demo page
+* [x] Add table search
+* [x] Add table status filter
+* [x] Add table sorting
+* [x] Add table pagination
+* [x] Add table row actions
+* [x] Add table status change actions
+* [x] Link Tables Demo from landing page
 * [ ] Add stable selectors
 * [ ] Add basic documentation per page
 * [x] Deploy to `labs.azealabs.com`
