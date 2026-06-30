@@ -251,13 +251,21 @@ Build the first QA Labs frontend.
 * [x] Add table row actions
 * [x] Add table status change actions
 * [x] Link Tables Demo from landing page
-* [ ] Add stable selectors
+* [x] Add stable selectors
 * [ ] Add basic documentation per page
 * [x] Deploy to `labs.azealabs.com`
 * [x] Create QA Labs Web README
 * [x] Replace default Next.js favicon
 * [x] Configure Cloudflare Pages static export
 * [x] Connect `labs.azealabs.com`
+* [x] Create Date & Time Demo
+* [x] Add single date example
+* [x] Add single time example
+* [x] Add datetime-local example
+* [x] Add date range validation example
+* [x] Add full schedule exercise
+* [x] Link Date & Time Demo from landing page
+* [x] Complete Level 1 - Fundamentals
 
 ### Completion Criteria
 
