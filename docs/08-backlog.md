@@ -238,8 +238,11 @@ Build the first QA Labs frontend.
 * [x] Add TypeScript
 * [x] Add Tailwind CSS
 * [x] Create QA Labs landing page
-* [ ] Create Login Demo page
-* [ ] Create Forms Demo page
+* [x] Organize QA Labs demos by levels
+* [x] Create Login Demo page
+* [x] Link Login Demo from landing page
+* [x] Create Forms Demo page
+* [x] Link Forms Demo from landing page
 * [ ] Create Tables Demo page
 * [ ] Add stable selectors
 * [ ] Add basic documentation per page
